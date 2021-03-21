@@ -35,4 +35,5 @@
     <color name="tyrel_primary">#6C9843</color>
     <color name="tyrel_dark">#44651A</color>
     <color name="tyrel_accent">#C9AE39</color>
+    <color name="ic_launcher_background">#423F3F</color>
 </resources>
